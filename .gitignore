@@ -2,6 +2,6 @@
 .env
 .env.*
 !.env.example
-
+secrets.txt
 # Installierte Pakete und lokale Build-Artefakte
 node_modules/
